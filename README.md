@@ -1,6 +1,6 @@
 # 🌱 Smart Plant Guardian
 
-**Dibuat oleh:** Safina R. S. (e43251922) - Prodi: TRK
+**Dibuat oleh:** Safina Rahmatus Sa'diyah. (E43251922) - Prodi: TRK
 
 Sistem monitoring dan perlindungan tanaman pintar berbasis ESP32. Proyek ini memantau kondisi lingkungan (suhu dan kelembaban) serta mendeteksi pergerakan hama di sekitar tanaman. Dilengkapi dengan antarmuka web, alarm peringatan, pengusir hama mekanis, dan layar OLED.
 
