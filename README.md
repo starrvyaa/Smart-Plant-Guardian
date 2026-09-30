@@ -45,7 +45,7 @@ Proyek ini memiliki dua varian file kode program:
 | :--- | :---: | :--- |
 | **OLED (I2C)** | 21 (SDA), 22 (SCL) | Menampilkan status lokal |
 | **Ultrasonic** | 5 (TRIG), 18 (ECHO) | Sensor deteksi hama |
-| **DHT11** | 3 | Sensor suhu & kelembaban |
+| **DHT11** | 2 | Sensor suhu & kelembaban |
 | **Servo** | 13 | Penggerak mekanis pengusir hama |
 | **Buzzer** | 25 | Output alarm audio |
 | **LED** | 27 | Output alarm visual |
